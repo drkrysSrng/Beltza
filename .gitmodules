@@ -1,0 +1,6 @@
+[submodule "Snow"]
+	path = Snow
+	url = https://git.gctmail.com/DevWin/Snow
+[submodule "Stub/Snow"]
+	path = Stub/Snow
+	url = https://git.gctmail.com/DevWin/Snow
